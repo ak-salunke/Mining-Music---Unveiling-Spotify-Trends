@@ -1,6 +1,6 @@
 # Mining Music - Unveiling Spotify Trends
 
-![Power BI Report](Images and Icons\Report_img.png)
+![Power BI Report](https://github.com/ak-salunke/Mining-Music---Unveiling-Spotify-Trends/blob/main/Images%20and%20Icons/Report_img.png)
 
 ## Overview
 
